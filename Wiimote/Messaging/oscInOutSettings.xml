@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "oscInOutSettings">
+	<slot number = "1">
+		<patcher name = "Machine1">
+			<pattr name = "IPaddress" value = "127.0.0.1" />
+			<pattr name = "Port" value = "6000" />
+		</patcher>
+		<patcher name = "Machine2">
+			<pattr name = "IPaddress" value = "127.0.0.1" />
+			<pattr name = "Port" value = "6000" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions
+END
+Wii.CountTime.pat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.CountTime.pat
+END
+Wii.ListQueue
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.ListQueue
+END
+Wii.MinMax.pat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.MinMax.pat
+END
+Wii.Broadcaster.pat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.Broadcaster.pat
+END
+Wii.Variance.pat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.Variance.pat
+END
+Wii.Delta
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.Delta
+END
+Wii.Oneshot.pat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.Oneshot.pat
+END
+Wii.Timeout
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.Timeout
+END
+Wii.BothButtons.pat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.BothButtons.pat
+END
+Wii.MedianFilter
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.MedianFilter
+END
+Wii.DeltaTrend
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.DeltaTrend
+END
+Wii.ZonesSigmoid.pat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.ZonesSigmoid.pat
+END
+Wii.GrabFade.pat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.GrabFade.pat
+END
+Wii.Zones.pat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/dance/!svn/ver/4/trunk/Max/WiimoteAbstractions/Wii.Zones.pat
+END
