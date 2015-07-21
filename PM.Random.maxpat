@@ -245,7 +245,7 @@
 					"outlettype" : [ "int" ],
 					"patching_rect" : [ 151.0, 69.0, 121.0, 22.0 ],
 					"style" : "",
-					"text" : "random 1874919425"
+					"text" : "random 1874919424"
 				}
 
 			}
@@ -256,7 +256,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 49.0, 51.0, 25.0, 25.0 ],
 					"style" : ""
 				}
@@ -274,7 +274,7 @@
 					"outlettype" : [ "int" ],
 					"patching_rect" : [ 49.0, 132.0, 121.0, 22.0 ],
 					"style" : "",
-					"text" : "random 1874919425"
+					"text" : "random 1874919424"
 				}
 
 			}
