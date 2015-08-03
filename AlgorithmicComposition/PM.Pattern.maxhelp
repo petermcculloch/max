@@ -4,12 +4,12 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 0,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 47.0, 78.0, 1199.0, 598.0 ],
+		"rect" : [ 47.0, 100.0, 1199.0, 598.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -502,7 +502,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 0,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -733,7 +733,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 346.0, 346.666656, 50.0, 22.0 ],
 					"style" : "",
-					"text" : "7 9"
+					"text" : "5"
 				}
 
 			}
@@ -809,9 +809,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 420.0, 297.0, 364.0, 22.0 ],
+					"patching_rect" : [ 420.0, 297.0, 378.0, 22.0 ],
 					"style" : "",
-					"text" : "VAS.Seq 0 1 2 (1 3) 4 5 6 (7 9) 8 (7 9) 10 11 (9 12 14) @mode fold"
+					"text" : "PM.Pattern 0 1 2 (1 3) 4 5 6 (7 9) 8 (7 9) 10 11 (9 12 14) @mode fold"
 				}
 
 			}
@@ -822,9 +822,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 420.0, 226.0, 103.0, 22.0 ],
+					"patching_rect" : [ 420.0, 226.0, 115.0, 22.0 ],
 					"style" : "",
-					"text" : "VAS.Seq 1 1 -2 1"
+					"text" : "PM.Pattern 1 1 -2 1"
 				}
 
 			}
@@ -1494,12 +1494,6 @@
 		"dependency_cache" : [ 			{
 				"name" : "PM.PlayScale.maxpat",
 				"bootpath" : "~/Projects/PM.Max/Pitch",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "VAS.Seq.maxpat",
-				"bootpath" : "~/Teaching/Vassar/Class/2014-2015/VassarEM2015/ClassPatches-02-24-15",
 				"type" : "JSON",
 				"implicit" : 1
 			}
